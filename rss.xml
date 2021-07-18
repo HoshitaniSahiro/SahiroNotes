@@ -21,51 +21,10 @@
             <webMaster>wu_yuxuan201@outlook.com (Sahiro)</webMaster>
         
         
-        <lastBuildDate>Sun, 18 Jul 2021 22:35:58 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 22:36:52 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://www.boa-sahiro.one/sahiro_notes/rss.xml" />
         
-        
-            <item>
-                <title>Wildcards通配符手记</title>
-                <link>http://www.boa-sahiro.one/sahiro_notes/post/wildcards/</link>
-                <guid isPermaLink="true">http://www.boa-sahiro.one/sahiro_notes/post/wildcards/</guid>
-                <pubDate>Sun, 18 Jul 2021 22:18:36 &#43;0800</pubDate>
-                
-                    <author>wu_yuxuan201@outlook.com (Sahiro)</author>
-                
-                
-                
-                    <description>&lt;p&gt;&lt;em&gt;: Matches any characters&lt;br&gt;
-?: Matches any single character&lt;br&gt;
-[characters]&lt;/em&gt;: Matches any character that&#39;s a member of the set&lt;br&gt;
-[!characters]: Matches any character that&#39;s NOT a member of the set&lt;/p&gt;
-&lt;p&gt;&lt;image
-src=&#34;../../images/wildcards_examples.png&#34;&gt;
-&lt;/image&gt;&lt;/p&gt;
-</description>
-                
-                
-                
-                    
-                    
-                    
-                        
-                        
-                        
-                            
-                                <category domain="http://www.boa-sahiro.one/sahiro_notes/post/">post\</category>
-                            
-                        
-                    
-                
-                
-                
-                    
-                        
-                    
-                
-            </item>
         
             <item>
                 <title>过往不恋，当下不杂，未来不迎</title>

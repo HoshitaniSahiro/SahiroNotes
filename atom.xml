@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">纱寻·手记</title>
     <subtitle type="html">纱寻在这里写些东西～。</subtitle>
-    <updated>2021-07-18T22:35:58&#43;08:00</updated>
+    <updated>2021-07-18T22:36:52&#43;08:00</updated>
     <id>http://www.boa-sahiro.one/sahiro_notes/</id>
     <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/" />
     <link rel="self" type="application/atom&#43;xml" href="http://www.boa-sahiro.one/sahiro_notes/atom.xml" />
@@ -16,50 +16,6 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.82.0">Hugo</generator>
-        <entry>
-            <title type="text">Wildcards通配符手记</title>
-            <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/post/wildcards/" />
-            <id>http://www.boa-sahiro.one/sahiro_notes/post/wildcards/</id>
-            <updated>2021-07-18T22:29:33&#43;08:00</updated>
-            <published>2021-07-18T22:18:36&#43;08:00</published>
-            <author>
-                    <name>Sahiro</name>
-                    <uri>https://www.boa-sahiro.one</uri>
-                    <email>wu_yuxuan201@outlook.com</email>
-                    </author>
-            <summary type="html">: Matches any characters ?: Matches any single character [characters]: Matches any character that&#39;s a member of the set [!characters]:……</summary>
-            
-                <content type="html">&lt;p&gt;&lt;em&gt;: Matches any characters&lt;br&gt;
-?: Matches any single character&lt;br&gt;
-[characters]&lt;/em&gt;: Matches any character that&#39;s a member of the set&lt;br&gt;
-[!characters]: Matches any character that&#39;s NOT a member of the set&lt;/p&gt;
-&lt;p&gt;&lt;image
-src=&#34;../../images/wildcards_examples.png&#34;&gt;
-&lt;/image&gt;&lt;/p&gt;
-</content>
-            
-            
-            
-                
-                
-                
-                    
-                    
-                    
-                        
-                            <category scheme="http://www.boa-sahiro.one/sahiro_notes/post/" term="post\" label="post\" />
-                        
-                    
-                
-            
-            
-            
-                
-                    
-                
-            
-        </entry>
-    
         <entry>
             <title type="text">过往不恋，当下不杂，未来不迎</title>
             <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/post/20210706/" />
