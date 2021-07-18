@@ -21,7 +21,7 @@
             <webMaster>wu_yuxuan201@outlook.com (Sahiro)</webMaster>
         
         
-        <lastBuildDate>Sun, 18 Jul 2021 22:26:32 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 22:29:49 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://www.boa-sahiro.one/sahiro_notes/rss.xml" />
         
@@ -36,9 +36,9 @@
                 
                 
                 
-                    <description>&lt;p&gt;&lt;em&gt;: Matches any characters
-?: Matches any single character
-[characters]&lt;/em&gt;: Matches any character that&#39;s a member of the set
+                    <description>&lt;p&gt;&lt;em&gt;: Matches any characters&lt;br&gt;
+?: Matches any single character&lt;br&gt;
+[characters]&lt;/em&gt;: Matches any character that&#39;s a member of the set&lt;br&gt;
 [!characters]: Matches any character that&#39;s NOT a member of the set&lt;/p&gt;
 &lt;p&gt;&lt;image
 src=&#34;../../images/wildcards_examples.png&#34;&gt;
