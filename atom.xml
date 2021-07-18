@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">纱寻·手记</title>
     <subtitle type="html">纱寻在这里写些东西～。</subtitle>
-    <updated>2021-07-06T16:40:01&#43;08:00</updated>
+    <updated>2021-07-18T22:26:32&#43;08:00</updated>
     <id>http://www.boa-sahiro.one/sahiro_notes/</id>
     <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/" />
     <link rel="self" type="application/atom&#43;xml" href="http://www.boa-sahiro.one/sahiro_notes/atom.xml" />
@@ -16,6 +16,50 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.82.0">Hugo</generator>
+        <entry>
+            <title type="text">Wildcards通配符手记</title>
+            <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/post/wildcards/" />
+            <id>http://www.boa-sahiro.one/sahiro_notes/post/wildcards/</id>
+            <updated>2021-07-18T22:26:13&#43;08:00</updated>
+            <published>2021-07-18T22:18:36&#43;08:00</published>
+            <author>
+                    <name>Sahiro</name>
+                    <uri>https://www.boa-sahiro.one</uri>
+                    <email>wu_yuxuan201@outlook.com</email>
+                    </author>
+            <summary type="html">: Matches any characters ?: Matches any single character [characters]: Matches any character that&#39;s a member of the set [!characters]:……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;em&gt;: Matches any characters
+?: Matches any single character
+[characters]&lt;/em&gt;: Matches any character that&#39;s a member of the set
+[!characters]: Matches any character that&#39;s NOT a member of the set&lt;/p&gt;
+&lt;p&gt;&lt;image
+src=&#34;../../images/wildcards_examples.png&#34;&gt;
+&lt;/image&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://www.boa-sahiro.one/sahiro_notes/post/" term="post\" label="post\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">过往不恋，当下不杂，未来不迎</title>
             <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/post/20210706/" />
@@ -1242,7 +1286,7 @@ s.keep_alive =False
             <title type="text">Hugo手记</title>
             <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/post/hugo/" />
             <id>http://www.boa-sahiro.one/sahiro_notes/post/hugo/</id>
-            <updated>2021-02-22T21:02:51&#43;08:00</updated>
+            <updated>2021-07-18T22:26:22&#43;08:00</updated>
             <published>2020-11-25T15:46:36&#43;08:00</published>
             <author>
                     <name>Sahiro</name>
@@ -1386,7 +1430,7 @@ watch:                      true
             <title type="text">Git手记</title>
             <link rel="alternate" type="text/html" href="http://www.boa-sahiro.one/sahiro_notes/post/git/" />
             <id>http://www.boa-sahiro.one/sahiro_notes/post/git/</id>
-            <updated>2021-03-30T02:53:13&#43;08:00</updated>
+            <updated>2021-07-18T22:11:57&#43;08:00</updated>
             <published>2020-11-25T15:39:51&#43;08:00</published>
             <author>
                     <name>Sahiro</name>
@@ -1397,7 +1441,9 @@ watch:                      true
             
                 <content type="html">&lt;p&gt;代码该放Github的就放Github...不Public也没事，像你这么 &lt;del&gt;爱买买买漂亮电脑&lt;/del&gt;（不我买不起）的人难道想让代码轻易就丢掉吗？&lt;/p&gt;
 &lt;p&gt;目前只会用到Github，就只写Github相关的命令吧。&lt;/p&gt;
-&lt;h3 id=&#34;从github得到仓库&#34;&gt;从Github得到仓库&lt;/h3&gt;
+&lt;h3 id=&#34;查看版本控制状态&#34;&gt;查看版本控制状态&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;git status
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;从github得到仓库&#34;&gt;从Github得到仓库&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;git clone git@github.com:HoshitaniSahiro/sahiro_notes.git
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;强迫症患者注意，此操作会在路径中新建一整个文件夹！
 加入参数-b [branch]可以指定分支。&lt;/p&gt;

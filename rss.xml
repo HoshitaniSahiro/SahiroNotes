@@ -21,10 +21,51 @@
             <webMaster>wu_yuxuan201@outlook.com (Sahiro)</webMaster>
         
         
-        <lastBuildDate>Tue, 06 Jul 2021 16:40:01 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 22:26:32 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://www.boa-sahiro.one/sahiro_notes/rss.xml" />
         
+        
+            <item>
+                <title>Wildcards通配符手记</title>
+                <link>http://www.boa-sahiro.one/sahiro_notes/post/wildcards/</link>
+                <guid isPermaLink="true">http://www.boa-sahiro.one/sahiro_notes/post/wildcards/</guid>
+                <pubDate>Sun, 18 Jul 2021 22:18:36 &#43;0800</pubDate>
+                
+                    <author>wu_yuxuan201@outlook.com (Sahiro)</author>
+                
+                
+                
+                    <description>&lt;p&gt;&lt;em&gt;: Matches any characters
+?: Matches any single character
+[characters]&lt;/em&gt;: Matches any character that&#39;s a member of the set
+[!characters]: Matches any character that&#39;s NOT a member of the set&lt;/p&gt;
+&lt;p&gt;&lt;image
+src=&#34;../../images/wildcards_examples.png&#34;&gt;
+&lt;/image&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="http://www.boa-sahiro.one/sahiro_notes/post/">post\</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>过往不恋，当下不杂，未来不迎</title>
@@ -1341,7 +1382,9 @@ watch:                      true
                 
                     <description>&lt;p&gt;代码该放Github的就放Github...不Public也没事，像你这么 &lt;del&gt;爱买买买漂亮电脑&lt;/del&gt;（不我买不起）的人难道想让代码轻易就丢掉吗？&lt;/p&gt;
 &lt;p&gt;目前只会用到Github，就只写Github相关的命令吧。&lt;/p&gt;
-&lt;h3 id=&#34;从github得到仓库&#34;&gt;从Github得到仓库&lt;/h3&gt;
+&lt;h3 id=&#34;查看版本控制状态&#34;&gt;查看版本控制状态&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;git status
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;从github得到仓库&#34;&gt;从Github得到仓库&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;git clone git@github.com:HoshitaniSahiro/sahiro_notes.git
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;强迫症患者注意，此操作会在路径中新建一整个文件夹！
 加入参数-b [branch]可以指定分支。&lt;/p&gt;
